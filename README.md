@@ -175,7 +175,7 @@ Railway Cron Jobs
 ## Project Structure
 
 ```
-TimePulse4/
+HCM487/
 ├── timepulse487/           # Django project settings
 ├── accounts/               # User, Department, auth endpoints
 │   └── management/commands/
